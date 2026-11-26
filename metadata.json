@@ -1,0 +1,6 @@
+{
+  "name": "Office Design & Space Planner — SMK Taman Harapan",
+  "description": "Aplikasi pembelajaran interaktif Furniture, Interior Kantor, dan Tata Ruang Kantor untuk siswa kelas XI MPLB SMK Taman Harapan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
